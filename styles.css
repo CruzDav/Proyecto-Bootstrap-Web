@@ -1,0 +1,18 @@
+.item {
+  height: 150px;
+  margin: 1px;
+}
+
+footer {
+  height: 50px;
+  line-height: 50px;
+  color: aliceblue;
+}
+
+.lateral {
+  height: 250px;
+}
+
+.lateral > div {
+  height: 50px;
+}
